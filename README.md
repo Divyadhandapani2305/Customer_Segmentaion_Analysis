@@ -12,4 +12,3 @@ This project groups mall customers into 5 distinct categories based on their **A
 * `Mall_Customers - Mall_Customers.csv` - Grouped Dataset
 * `Customer_Dashboard.pbix` - Power BI Dashboard File
 * `Screenshot 2026-05-17 150720.png` - Dashboard_ScreenChat
-*
